@@ -5,7 +5,7 @@ class Translation(object):
   START_TXT = """<b>Hai {}!!</b>
 <i>I'm Simple Auto file Forward Bot
 This Bot forward all files to One Public channel to Your Personal channel
-More details /help</i>"""
+More details BY RRMOVIE /help</i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>Follow These Steps!!</b>
 <b>• Currectly fill your Heroku Config vars</b> <code>FROM_CHANNEL</code> and <code>TO_CHANNEL</code> <b>and other Vars</b>
@@ -18,11 +18,11 @@ More details /help</i>"""
 * /start - <b>Bot Alive</b>
 * /help - <b>more help</b>
 * /run - <b>start forward</b>
-* /about - <b>About Me</b>"""
+
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>Dark Angel</code>
+<b>Credit :</b> <code>Chekuthan 1.0</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
 <b>Server :</b> <code>Heroku</code>
